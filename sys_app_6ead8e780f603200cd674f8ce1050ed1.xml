@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_app">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_category/>
         <license_model>none</license_model>
         <logo/>
         <menu/>
@@ -33,4 +34,42 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#e79a3</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <image_height>15</image_height>
+        <image_width>15</image_width>
+        <size_bytes>665</size_bytes>
+        <size_compressed>688</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-07 05:47:04</sys_created_on>
+        <sys_id>0ec7af18db2b2300fdb0146139961993</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-02-07 05:47:05</sys_updated_on>
+        <table_name>ZZ_YYsys_app</table_name>
+        <table_sys_id>6ead8e780f603200cd674f8ce1050ed1</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="0ec7af18db2b2300fdb0146139961993">0ec7af18db2b2300fdb0146139961993</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-07 05:47:04</sys_created_on>
+        <sys_id>4ec7af18db2b2300fdb0146139961993</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AZkCZv2JUE5HDQoaCgAAAA1JSERSAAAADwAAAA8IBgAAADvWlUoAAAABc1JHQgCuzhzpAAACU0lEQVQoFY3RT0gUURwH8O97s7Mzu+sm7poWKmIiGqKhRH8OQdRFihKCOmiIHRQ6GkhFhw4d8mKnghSxKEwSOhQkBF7CkMCiqIxM+7fumo7rkqsz48ybea9xSSEN7R0e78/v834/fo/gP4fa1rvLr8j7QWkdCN0XsMxmsqVt7QoGo6EOWfE3EUKzOWOgQqAoPa/5NsWtXXJWNKu7rLygsTCqQNMdfI+loM4lEeT28KY4KyfQ6c8ONx4oDqI6ImHWlPFcimBRmwFx+cBfuPresxDUnEMS4ZWJ8akaU7caJeFAMzksh8JwOPKCPuic6dzB6Bre0z9SIwjpkSipTacMWDYHgQDTTbxN6AgrYcx5j8Qm5xEyrDsve9q/ZXDVwEiVF/fUFwjtXEj8xFxMW2uF43IYX2L4ECdQKEVASz4wdH5pJSCDOZDwMjbos9qxZCLVjkxO4c1Arm0gz1wC5UQw7t5yMXHh3f1utoI3fFX+1bvX0rZ6OSQsKd9cRNheBpEVOCG1b/R6y9kVtDro6sIrW7IHT7bMHH90tL7wx+PCdFps86DXB7DyUli1Va/WYv8sMlgkTxfYg/W9xkPW7QzhYH/1cHFUNTpcWRF2RRnYju0AY582YDFZXwTGb8sLtMlJeV8y7cKMkb6hzotXrN2lN1BSAmFZb1xf5MUGjFL/NJtw4tYUE9ltgfHgeXXwY8P0Ta9awSO5T/iyEXepODd2pnJpPfYhjhKqkgp62H9CqiCfseDyveR1pptwrPdeuXVjzUfG1sPMXnw9VSx+NeT883KLw9/vjAMDyvUX/gAAAABJRU5ErkJggmiQFKuZAgAA</data>
+        <length>904</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="0ec7af18db2b2300fdb0146139961993">0ec7af18db2b2300fdb0146139961993</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-07 05:47:04</sys_created_on>
+        <sys_id>cec7af18db2b2300fdb0146139961993</sys_id>
+    </sys_attachment_doc>
 </record_update>
